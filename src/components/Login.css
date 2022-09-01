@@ -1,0 +1,24 @@
+input{
+    color:red;
+    padding-top: 2px;
+    width: 50%;
+   border-radius: 5px;
+   height: 40px;
+  box-sizing: content-box;
+ background-color: #af9a7d;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+ 
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+    margin-left: 15rem;
+
+}
+low{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
